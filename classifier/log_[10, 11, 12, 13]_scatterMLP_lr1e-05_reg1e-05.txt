@@ -1,0 +1,3 @@
+Time taken to compute scattering coefficients: 145.41 seconds 
+Time taken to compute scattering coefficients: 15.66 seconds 
+Time taken to train the model on fold 4: 53.82 seconds 

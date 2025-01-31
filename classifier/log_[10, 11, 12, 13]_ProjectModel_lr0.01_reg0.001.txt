@@ -1,0 +1,3 @@
+Time taken to train the model on fold 4: 16.86 seconds 
+Time taken to train the model on fold 4: 30.66 seconds 
+Time taken to train the model on fold 4: 213.53 seconds 
